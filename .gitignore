@@ -1,0 +1,5 @@
+/out/
+/dashboards_out/
+*.yaml
+!*/*.yaml
+vendor/
